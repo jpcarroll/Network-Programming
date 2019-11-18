@@ -1,8 +1,6 @@
-# Project Title
-MP TCP Client/Server Program
+# MP TCP Client/Server Program
 
-## Description
-MP TCP Client/Server writen in C.
+## MP TCP Client/Server writen in C.
 
 ## Getting Started
 * Compiling and running the server:

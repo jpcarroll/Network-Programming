@@ -1,8 +1,6 @@
-# Project Title
-Read/Write Implementation
+# Read/Write Implementation
 
-## Description
-Implementing the Read and Write functions from C
+## Implementing the Read and Write functions from C
 
 ## Getting Started
 * Compiling and running:

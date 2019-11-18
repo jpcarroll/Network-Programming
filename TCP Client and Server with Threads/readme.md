@@ -1,8 +1,6 @@
-# Project Title
-MP TCP Client/Server Program using Threads
+# MP TCP Client/Server Program using Threads
 
-## Description
-MP TCP Client/Server writen in C using threads.
+## MP TCP Client/Server writen in C using threads.
 
 ## Getting Started
 * Compiling and running the server:
