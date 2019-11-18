@@ -1,5 +1,4 @@
-# Project Title
-UDP Pinger Project 
+# UDP Pinger Project 
 
 ## Description
 
