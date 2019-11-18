@@ -1,8 +1,6 @@
 # UDP Pinger Project 
 
-## Description
-
-A UDP Pinger Server/Client writen in C.
+## A UDP Pinger Server/Client writen in C.
 
 ## Getting Started
 * Compiling and running the server:
